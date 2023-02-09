@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AnnaYeremenko/goit-react-hw-06-phonebook/static/css/main.7acaea2f.css",
+    "main.js": "/AnnaYeremenko/goit-react-hw-06-phonebook/static/js/main.a51fe3c3.js",
+    "index.html": "/AnnaYeremenko/goit-react-hw-06-phonebook/index.html",
+    "main.7acaea2f.css.map": "/AnnaYeremenko/goit-react-hw-06-phonebook/static/css/main.7acaea2f.css.map",
+    "main.a51fe3c3.js.map": "/AnnaYeremenko/goit-react-hw-06-phonebook/static/js/main.a51fe3c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.a51fe3c3.js"
+  ]
+}
