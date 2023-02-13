@@ -43,10 +43,6 @@ export const ContactForm = () => {
           required
           />
             <Button type="submit">Add contact</Button>
-
         </Form>
     );
-};
-ContactForm.propTypes = {
-    onSubmit: PropTypes.func.isRequired,
 };
