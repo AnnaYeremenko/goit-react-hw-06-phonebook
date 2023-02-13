@@ -13,15 +13,11 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      <Title>
         <h1>Phonebook</h1>
         <ContactForm />
-      <ContactsTitle>
         <h2>Contacts</h2>
         <Filter />
           <ContactList/>
-        </ContactsTitle>
-      </Title>
     </div>
   );
 };
