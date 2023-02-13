@@ -7,7 +7,7 @@ export const Filter = () => {
     const dispatch = useDispatch();
 
     const changeFilter = event => {
-        const value = event.target.value.toLower().trim();
+        const value = event.target.value.toLowerCase().trim();
         dispatch(setFilterContact(value));
     };
     return (

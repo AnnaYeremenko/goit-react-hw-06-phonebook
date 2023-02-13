@@ -4,6 +4,7 @@ export const Form = styled.form`
 display: flex;
 flex-direction: column;
 padding: 5px;
+collor: red;
 `;
 
 export const InputTitle = styled.label`

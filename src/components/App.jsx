@@ -7,9 +7,10 @@ export const App = () => {
       style={{
         height: '100vh',
         display: 'flex',
+        flexDirection: 'column',
         justifyContent: 'center',
         alignItems: 'center',
-        fontSize: 40,
+        fontSize: 20,
         color: '#010101'
       }}
     >
@@ -17,7 +18,7 @@ export const App = () => {
         <ContactForm />
         <h2>Contacts</h2>
         <Filter />
-          <ContactList/>
+        <ContactList/>
     </div>
   );
 };
